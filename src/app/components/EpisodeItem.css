@@ -1,0 +1,18 @@
+.episode-character {
+    color: #8c3faf;
+    opacity: 0.5;
+}
+
+.episode-character:hover {
+    /* color: #572e69; */
+    opacity: 1;
+}
+
+.episode-character>li {
+    border: none;
+    padding: 10px;
+}
+
+.character-li {
+    list-style: none;
+}

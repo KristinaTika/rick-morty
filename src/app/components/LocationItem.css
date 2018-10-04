@@ -1,0 +1,11 @@
+.location-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.location-info li {
+    list-style: none;
+}

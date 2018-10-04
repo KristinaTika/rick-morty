@@ -1,0 +1,23 @@
+form {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border: none;
+}
+
+form input {
+    width: 75%;
+    padding: 15px;
+    border: 2px solid #3d184e;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+form input:focus {
+    border: 2px solid red;
+}
+
+.search-list {
+    min-height: 75vh;
+}
